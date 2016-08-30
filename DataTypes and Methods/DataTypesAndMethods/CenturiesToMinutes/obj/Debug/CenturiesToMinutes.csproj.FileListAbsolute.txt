@@ -1,0 +1,6 @@
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe.config
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.pdb
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.csprojResolveAssemblyReference.cache
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.exe
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.pdb
