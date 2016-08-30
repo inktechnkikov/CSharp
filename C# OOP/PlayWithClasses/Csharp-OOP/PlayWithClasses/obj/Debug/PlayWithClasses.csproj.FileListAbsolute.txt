@@ -1,0 +1,12 @@
+D:\data\linux\Projects\C# OOP\PlayWithClasses\PlayWithClasses\bin\Debug\PlayWithClasses.exe.config
+D:\data\linux\Projects\C# OOP\PlayWithClasses\PlayWithClasses\bin\Debug\PlayWithClasses.exe
+D:\data\linux\Projects\C# OOP\PlayWithClasses\PlayWithClasses\bin\Debug\PlayWithClasses.pdb
+D:\data\linux\Projects\C# OOP\PlayWithClasses\PlayWithClasses\obj\Debug\PlayWithClasses.csprojResolveAssemblyReference.cache
+D:\data\linux\Projects\C# OOP\PlayWithClasses\PlayWithClasses\obj\Debug\PlayWithClasses.exe
+D:\data\linux\Projects\C# OOP\PlayWithClasses\PlayWithClasses\obj\Debug\PlayWithClasses.pdb
+D:\data\linux\Projects\C# OOP\PlayWithClasses\Csharp-OOP\PlayWithClasses\bin\Debug\PlayWithClasses.exe.config
+D:\data\linux\Projects\C# OOP\PlayWithClasses\Csharp-OOP\PlayWithClasses\obj\Debug\PlayWithClasses.exe
+D:\data\linux\Projects\C# OOP\PlayWithClasses\Csharp-OOP\PlayWithClasses\obj\Debug\PlayWithClasses.pdb
+D:\data\linux\Projects\C# OOP\PlayWithClasses\Csharp-OOP\PlayWithClasses\bin\Debug\PlayWithClasses.exe
+D:\data\linux\Projects\C# OOP\PlayWithClasses\Csharp-OOP\PlayWithClasses\bin\Debug\PlayWithClasses.pdb
+D:\data\linux\Projects\C# OOP\PlayWithClasses\Csharp-OOP\PlayWithClasses\obj\Debug\PlayWithClasses.csprojResolveAssemblyReference.cache
