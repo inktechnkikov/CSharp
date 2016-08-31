@@ -1,0 +1,6 @@
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\Elevator\bin\Debug\Elevator.exe.config
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\Elevator\bin\Debug\Elevator.exe
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\Elevator\bin\Debug\Elevator.pdb
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\Elevator\obj\Debug\Elevator.csprojResolveAssemblyReference.cache
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\Elevator\obj\Debug\Elevator.exe
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\Elevator\obj\Debug\Elevator.pdb
