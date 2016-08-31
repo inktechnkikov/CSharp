@@ -1,0 +1,6 @@
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\ExactSumOfRealNums\bin\Debug\ExactSumOfRealNums.exe.config
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\ExactSumOfRealNums\bin\Debug\ExactSumOfRealNums.exe
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\ExactSumOfRealNums\bin\Debug\ExactSumOfRealNums.pdb
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\ExactSumOfRealNums\obj\Debug\ExactSumOfRealNums.csprojResolveAssemblyReference.cache
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\ExactSumOfRealNums\obj\Debug\ExactSumOfRealNums.exe
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\ExactSumOfRealNums\obj\Debug\ExactSumOfRealNums.pdb

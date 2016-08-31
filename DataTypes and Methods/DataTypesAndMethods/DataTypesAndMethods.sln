@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenturiesToMinutes", "Centu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleArea", "CircleArea\CircleArea.csproj", "{3C6730E3-8A3D-4F8F-96E9-0EAE32D27AE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExactSumOfRealNums", "ExactSumOfRealNums\ExactSumOfRealNums.csproj", "{B04D501D-0B8D-459E-9A43-1B41686998A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3C6730E3-8A3D-4F8F-96E9-0EAE32D27AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C6730E3-8A3D-4F8F-96E9-0EAE32D27AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C6730E3-8A3D-4F8F-96E9-0EAE32D27AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B04D501D-0B8D-459E-9A43-1B41686998A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04D501D-0B8D-459E-9A43-1B41686998A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04D501D-0B8D-459E-9A43-1B41686998A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04D501D-0B8D-459E-9A43-1B41686998A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
