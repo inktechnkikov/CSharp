@@ -1,0 +1,5 @@
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\AnimalType\bin\Debug\AnimalType.exe.config
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\AnimalType\bin\Debug\AnimalType.exe
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\AnimalType\bin\Debug\AnimalType.pdb
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\AnimalType\obj\Debug\AnimalType.exe
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\AnimalType\obj\Debug\AnimalType.pdb
