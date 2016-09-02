@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalType", "AnimalType\An
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilledSquare", "FilledSquare\FilledSquare.csproj", "{F971B372-1817-4D3C-8F55-595B4B0BAF96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseChars", "ReverseChars\ReverseChars.csproj", "{4150FFDB-872A-43AE-8341-F8BC059F3AAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{F971B372-1817-4D3C-8F55-595B4B0BAF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F971B372-1817-4D3C-8F55-595B4B0BAF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F971B372-1817-4D3C-8F55-595B4B0BAF96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4150FFDB-872A-43AE-8341-F8BC059F3AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4150FFDB-872A-43AE-8341-F8BC059F3AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4150FFDB-872A-43AE-8341-F8BC059F3AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4150FFDB-872A-43AE-8341-F8BC059F3AAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
