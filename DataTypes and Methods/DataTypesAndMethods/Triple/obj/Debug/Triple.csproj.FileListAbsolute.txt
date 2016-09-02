@@ -1,0 +1,6 @@
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\Triple\bin\Debug\Triple.exe.config
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\Triple\bin\Debug\Triple.exe
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\Triple\bin\Debug\Triple.pdb
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\Triple\obj\Debug\Triple.csprojResolveAssemblyReference.cache
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\Triple\obj\Debug\Triple.exe
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\Triple\obj\Debug\Triple.pdb

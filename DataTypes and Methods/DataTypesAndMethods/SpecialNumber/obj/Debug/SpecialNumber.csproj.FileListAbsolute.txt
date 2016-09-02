@@ -1,0 +1,6 @@
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\SpecialNumber\bin\Debug\SpecialNumber.exe.config
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\SpecialNumber\bin\Debug\SpecialNumber.exe
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\SpecialNumber\bin\Debug\SpecialNumber.pdb
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\SpecialNumber\obj\Debug\SpecialNumber.csprojResolveAssemblyReference.cache
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\SpecialNumber\obj\Debug\SpecialNumber.exe
+D:\data\linux\Projects\clone C#\CSharp\DataTypes and Methods\DataTypesAndMethods\SpecialNumber\obj\Debug\SpecialNumber.pdb
