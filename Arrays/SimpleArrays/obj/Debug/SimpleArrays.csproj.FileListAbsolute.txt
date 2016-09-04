@@ -1,0 +1,6 @@
+D:\data\linux\Projects\clone C#\CSharp\Arrays\SimpleArrays\bin\Debug\SimpleArrays.exe.config
+D:\data\linux\Projects\clone C#\CSharp\Arrays\SimpleArrays\bin\Debug\SimpleArrays.exe
+D:\data\linux\Projects\clone C#\CSharp\Arrays\SimpleArrays\bin\Debug\SimpleArrays.pdb
+D:\data\linux\Projects\clone C#\CSharp\Arrays\SimpleArrays\obj\Debug\SimpleArrays.csprojResolveAssemblyReference.cache
+D:\data\linux\Projects\clone C#\CSharp\Arrays\SimpleArrays\obj\Debug\SimpleArrays.exe
+D:\data\linux\Projects\clone C#\CSharp\Arrays\SimpleArrays\obj\Debug\SimpleArrays.pdb
