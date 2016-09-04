@@ -1,0 +1,5 @@
+D:\data\linux\Projects\clone C#\CSharp\Arrays\InsertElementsInArr\bin\Debug\InsertElementsInArr.exe.config
+D:\data\linux\Projects\clone C#\CSharp\Arrays\InsertElementsInArr\bin\Debug\InsertElementsInArr.exe
+D:\data\linux\Projects\clone C#\CSharp\Arrays\InsertElementsInArr\bin\Debug\InsertElementsInArr.pdb
+D:\data\linux\Projects\clone C#\CSharp\Arrays\InsertElementsInArr\obj\Debug\InsertElementsInArr.exe
+D:\data\linux\Projects\clone C#\CSharp\Arrays\InsertElementsInArr\obj\Debug\InsertElementsInArr.pdb
