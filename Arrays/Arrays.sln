@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOfWeek", "DayOfWeek\DayO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array - fast way", "Array - fast way\Array - fast way.csproj", "{BAEFEAF3-EC01-4722-9BA2-8FEDF226FB07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripleSum", "TripleSum\TripleSum.csproj", "{50DB8391-B71A-4A45-96C0-D71C9436D622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondenceArr", "CondenceArr\CondenceArr.csproj", "{2D34F747-084D-4590-823E-EAA155317FBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{BAEFEAF3-EC01-4722-9BA2-8FEDF226FB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAEFEAF3-EC01-4722-9BA2-8FEDF226FB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAEFEAF3-EC01-4722-9BA2-8FEDF226FB07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50DB8391-B71A-4A45-96C0-D71C9436D622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50DB8391-B71A-4A45-96C0-D71C9436D622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50DB8391-B71A-4A45-96C0-D71C9436D622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50DB8391-B71A-4A45-96C0-D71C9436D622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D34F747-084D-4590-823E-EAA155317FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D34F747-084D-4590-823E-EAA155317FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D34F747-084D-4590-823E-EAA155317FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D34F747-084D-4590-823E-EAA155317FBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

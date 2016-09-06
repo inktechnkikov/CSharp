@@ -1,0 +1,6 @@
+D:\data\linux\Projects\clone C#\CSharp\Arrays\TripleSum\bin\Debug\TripleSum.exe.config
+D:\data\linux\Projects\clone C#\CSharp\Arrays\TripleSum\bin\Debug\TripleSum.exe
+D:\data\linux\Projects\clone C#\CSharp\Arrays\TripleSum\bin\Debug\TripleSum.pdb
+D:\data\linux\Projects\clone C#\CSharp\Arrays\TripleSum\obj\Debug\TripleSum.csprojResolveAssemblyReference.cache
+D:\data\linux\Projects\clone C#\CSharp\Arrays\TripleSum\obj\Debug\TripleSum.exe
+D:\data\linux\Projects\clone C#\CSharp\Arrays\TripleSum\obj\Debug\TripleSum.pdb

@@ -1,0 +1,6 @@
+D:\data\linux\Projects\clone C#\CSharp\Arrays\CondenceArr\bin\Debug\CondenceArr.exe.config
+D:\data\linux\Projects\clone C#\CSharp\Arrays\CondenceArr\bin\Debug\CondenceArr.exe
+D:\data\linux\Projects\clone C#\CSharp\Arrays\CondenceArr\bin\Debug\CondenceArr.pdb
+D:\data\linux\Projects\clone C#\CSharp\Arrays\CondenceArr\obj\Debug\CondenceArr.csprojResolveAssemblyReference.cache
+D:\data\linux\Projects\clone C#\CSharp\Arrays\CondenceArr\obj\Debug\CondenceArr.exe
+D:\data\linux\Projects\clone C#\CSharp\Arrays\CondenceArr\obj\Debug\CondenceArr.pdb
