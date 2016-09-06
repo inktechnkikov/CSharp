@@ -10,7 +10,7 @@ namespace Array___fast_way
     {
         static void Main()
         {
-            int[] arr = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+            int[] arr = Console.ReadLine().Split(',').Select(int.Parse).ToArray();
             for (int i = 0; i < arr.Length; i++)
             {
                 Console.WriteLine(arr[i]);
